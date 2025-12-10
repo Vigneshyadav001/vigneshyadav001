@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Vignesh
 
-<!--
-**Vigneshyadav001/vigneshyadav001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Learning Python, SQL, and Power BI
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Pandas, Numpy)
+- SQL (MySQL, SQLserver)
+- Data Cleaning (excel)
+- Data Visualization (Matplotlib, Seaborn)
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Covid Data ETL and Analysis
+
+## 🎯 Current Learning
+- ETL Pipelines
+- Data Engineering basics
