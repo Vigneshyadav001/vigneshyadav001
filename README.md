@@ -11,7 +11,5 @@ Aspiring Data Analyst | Learning Python, SQL, and Power BI
 
 ## 📊 Projects
 - Covid Data ETL and Analysis
-
-## 🎯 Current Learning
-- ETL Pipelines
-- Data Engineering basics
+- Crime-Analysis-India
+- Customer-Segmentation-RFM
